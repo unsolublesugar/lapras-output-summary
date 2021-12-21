@@ -5,7 +5,7 @@
 ## connpass
 
 * 2021/12/23
-	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　~2周年企画~ #24](https://easy2.connpass.com/event/232105/)
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　2周年企画 #24](https://easy2.connpass.com/event/232105/)
 * 2021/11/29
 	* [LayerX CTO 松本氏 x Souzoh CTO 名村が語る「エンジニアのこれから」](https://mercari.connpass.com/event/230971/)
 * 2021/11/25
