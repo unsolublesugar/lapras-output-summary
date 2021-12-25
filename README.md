@@ -5,7 +5,7 @@
 ## connpass
 
 * 2021/12/23
-	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　2周年企画 #24](https://easy2.connpass.com/event/232105/)
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　~2周年企画~ #24](https://easy2.connpass.com/event/232105/)
 * 2021/11/29
 	* [LayerX CTO 松本氏 x Souzoh CTO 名村が語る「エンジニアのこれから」](https://mercari.connpass.com/event/230971/)
 * 2021/11/25
@@ -47,7 +47,7 @@
 * 2021/06/09
 	* [【増枠！】今村さんと松本さんに聞く！CTOが直面する組織マネジメント上の課題とその乗り越え方](https://findy.connpass.com/event/214017/)
 * 2021/06/08
-	* [『ドメイン駆動設計入門』×『事業をエンジニアリングする技術者たち』パネルディスカッション](https://voyagegroup.connpass.com/event/212538/)
+	* [『ドメイン駆動設計入門』×『事業をエンジニアリングする技術者たち』パネルディスカッション](https://cartaholdings.connpass.com/event/212538/)
 * 2021/05/27
 	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#17](https://easy2.connpass.com/event/213310/)
 * 2021/05/17
@@ -70,6 +70,15 @@
 	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#14](https://easy2.connpass.com/event/203690/)
 * 2021/01/28
 	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#13](https://easy2.connpass.com/event/200010/)
+
+## Github
+
+* 2021/12/15
+	* [unsolublesugar/lapras-output-summary](https://github.com/unsolublesugar/lapras-output-summary)
+* 2021/09/26
+	* [unsolublesugar/lchika](https://github.com/unsolublesugar/lchika)
+* 2021/09/25
+	* [unsolublesugar/ARFoundationUnityChan](https://github.com/unsolublesugar/ARFoundationUnityChan)
 
 ## Blog等
 
@@ -132,13 +141,6 @@
 	* [五反田ラーメン紀行①](https://note.com/unsoluble_sugar/n/n9a5184788e2f)
 * 2021/07/19
 	* [Varjo XR-3を体験したら生まれたてのおじさんになった](https://note.com/unsoluble_sugar/n/n61ba2fb09dc2)
-
-## Github
-
-* 2021/09/26
-	* [unsolublesugar/lchika](https://github.com/unsolublesugar/lchika)
-* 2021/09/25
-	* [unsolublesugar/ARFoundationUnityChan](https://github.com/unsolublesugar/ARFoundationUnityChan)
 
 # 2020
 
