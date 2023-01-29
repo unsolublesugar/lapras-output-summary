@@ -1,5 +1,115 @@
 [LAPRASポートフォリオはこちらから](https://lapras.com/public/unsoluble_sugar)
 
+# 2022
+
+## connpass
+
+* 2022/12/29
+	* [【3周年記念回!!】エンジニア達の「〇〇完全に理解した」Talk　#36](https://easy2.connpass.com/event/268684/)
+* 2022/12/07
+	* [アジャイルなチームをつくる『アジャイルリーダーシップ』 - Forkwell Library#13](https://forkwell.connpass.com/event/266798/)
+* 2022/11/24
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#35](https://easy2.connpass.com/event/264667/)
+* 2022/11/18
+	* [Qiita Night～エンジニアリングマネジメント～](https://increments.connpass.com/event/263990/)
+* 2022/11/15
+	* [「技術書」の読書術を達人に聞いてみた - Forkwell Library #10](https://forkwell.connpass.com/event/264319/)
+* 2022/11/02
+	* [Clean Craftsmanship - Forkwell Library #8](https://forkwell.connpass.com/event/263023/)
+* 2022/10/27
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#34](https://easy2.connpass.com/event/262975/)
+* 2022/10/20
+	* [【BASE・ミラティブ】CTO/EMが振り返る、急成長企業が歩んだエンジニア組織のターニングポイント](https://mirrativ.connpass.com/event/260524/)
+* 2022/09/30
+	* [【エムスリー×MonotaRO】急成長メガベンチャーのエンジニア組織づくり最前線](https://findy.connpass.com/event/259841/)
+* 2022/09/29
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#33](https://easy2.connpass.com/event/259545/)
+* 2022/09/27
+	* [スカウト返信率20%超えのプログリットに学ぶ、0からエンジニア採用で成果をあげる組織の作り方](https://lapras.connpass.com/event/259006/)
+* 2022/09/21
+	* [開発効率が高いエンジニアを真似することから始める、エンジニア組織の改善サイクル](https://findy.connpass.com/event/259860/)
+* 2022/09/13
+	* [アウトプットからはじまるエンジニアのキャリア戦略](https://findy.connpass.com/event/257654/)
+* 2022/09/06
+	* [エンジニアリングマネージャーのしごと - Forkwell Library #5](https://forkwell.connpass.com/event/257329/)
+* 2022/08/30
+	* [デスマーチを生き延びたからこそ今がある。経験からの学びとは](https://findy.connpass.com/event/257300/)
+* 2022/08/25
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#32](https://easy2.connpass.com/event/256865/)
+* 2022/08/05
+	* [DevRel/Japan CONFERENCE 2022](https://devrel.connpass.com/event/247271/)
+* 2022/07/28
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#31](https://easy2.connpass.com/event/253554/)
+* 2022/07/27
+	* [リーダブルなテストコードについて考えよう](https://veriserve-event.connpass.com/event/243280/)
+* 2022/06/30
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#30](https://easy2.connpass.com/event/249910/)
+* 2022/05/26
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#29](https://easy2.connpass.com/event/247539/)
+* 2022/04/28
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#28](https://easy2.connpass.com/event/244472/)
+* 2022/04/26
+	* [『良いコード/悪いコードで学ぶ設計入門』著者トーク](https://modeling-how-to-learn.connpass.com/event/242976/)
+* 2022/03/31
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#27](https://easy2.connpass.com/event/241509/)
+* 2022/03/18
+	* [【限定公開】エンジニア達の「開発 ☆ HENTAI Night！」#1（3/18 20:00 ~）](https://easy2.connpass.com/event/241510/)
+* 2022/03/10
+	* [アメリカで働くエンジニアのキャリア論](https://findy.connpass.com/event/239676/)
+* 2022/02/24
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#26](https://easy2.connpass.com/event/238337/)
+* 2022/01/27
+	* [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#25](https://easy2.connpass.com/event/235146/)
+* 2022/01/26
+	* [SIer・業務系エンジニアのXRスタートアップ転職を語る会【しなとーく配信】](https://synamon.connpass.com/event/235748/)
+* 2022/01/21
+	* [Qiita Advent Calendar Online Meetup](https://increments.connpass.com/event/231642/)
+
+## Blog等
+
+* 2022/05/26
+	* [技術選定完全に理解した](https://speakerdeck.com/unsoluble_sugar/technology-selection-completely-understood)
+* 2022/05/24
+	* [楽天モバイル回線のMNP予約番号発行方法](https://unsolublesugar.com/20220524/085446/)
+* 2022/04/24
+	* [macOS Monterey（Apple M1）zshでpyenv/Python環境構築](https://zenn.dev/unsoluble_sugar/articles/283ebf698c307c)
+* 2022/03/22
+	* [ATiC Kindle Oasis 2019（第10世代）カバーレビュー](https://unsolublesugar.com/20220322/113127/)
+* 2022/03/21
+	* [Ostrichpillow 3D Eye Maskで遮光性の高い快眠環境を実現する](https://unsolublesugar.com/20220321/211018/)
+* 2022/03/21
+	* [コンパクトなドラム式洗濯乾燥機「SHARP ES-S7F」への買い替え](https://unsolublesugar.com/20220321/180755/)
+* 2022/03/19
+	* [【個人事業主の引越し】e-Taxソフトで所得税納税地の異動届を出してみた](https://unsolublesugar.com/20220319/214017/)
+* 2022/03/13
+	* [Windows 10で「e-Taxソフトが新しいソフトウェアのインストールを構成中です。」から進まない問題の解決方法](https://unsolublesugar.com/20220313/190002/)
+* 2022/03/13
+	* [e-Taxソフト（WEB版）二重ログインエラーの解決方法](https://unsolublesugar.com/20220313/175541/)
+* 2022/03/02
+	* [Unity Asset Storeで購入＆ダウンロードした.unitypackageの保存場所](https://zenn.dev/unsoluble_sugar/articles/b04b29ca5193c7)
+* 2022/02/13
+	* [Google Spreadsheetで変更を加えた行の更新日を自動更新する](https://zenn.dev/unsoluble_sugar/articles/887119d14f98f7)
+* 2022/01/03
+	* [WELLEXPRESSのOculus Quest 2用Eliteストラップが良い感じ](https://unsolublesugar.com/20220103/185153/)
+
+## SpeakerDeck
+
+* 2022/05/26
+	* [技術選定完全に理解した](https://speakerdeck.com/unsoluble_sugar/technology-selection-completely-understood)
+
+## note
+
+* 2022/01/09
+	* [Blender日誌 ワイングラスを作ってみる](https://note.com/unsoluble_sugar/n/n341bb6856b0f)
+* 2022/01/07
+	* [Blender日誌 マグカップを作ってみる](https://note.com/unsoluble_sugar/n/na0e00b4a32c3)
+* 2022/01/03
+	* [Blender日誌 ポケモンのコイル＆レアコイルを作ってみる](https://note.com/unsoluble_sugar/n/nf884f9cd55d0)
+* 2022/01/02
+	* [Blender日誌 Among Usのクルーメイトを作ってみる](https://note.com/unsoluble_sugar/n/n8916899430a0)
+* 2022/01/01
+	* [2022年の抱負](https://note.com/unsoluble_sugar/n/nd6015d904897)
+
 # 2021
 
 ## connpass
