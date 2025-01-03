@@ -1,5 +1,205 @@
 [LAPRASポートフォリオはこちらから](https://lapras.com/public/unsoluble_sugar)
 
+# 2023
+
+## Blog等
+
+* 2023/12/27
+	* [ヨドバシ・ドット・コムの「購入した商品に質問が届いています」メール配信を止める方法](https://unsolublesugar.com/20231227/211221/)
+* 2023/12/25
+	* [2024年に買いたいガジェットたち #ガジェ獣AdventCalendar](https://unsolublesugar.com/20231225/000100/)
+* 2023/12/02
+	* [分割手数料無料。MacBook Proの購入にペイディあと払いプランApple専用を使ってみた](https://unsolublesugar.com/20231202/152239/)
+* 2023/11/30
+	* [2023年「買ってよかったなぁ！」と思ったガジェットまとめ #ガジェ獣AdventCalendar](https://unsolublesugar.com/20231130/170049/)
+* 2023/11/19
+	* [Disney+スタンダードプラン変更の事前予約（ドコモから入会の場合）](https://unsolublesugar.com/20231119/180357/)
+* 2023/11/17
+	* [身に覚えのない郵便物が届いた場合の対応について](https://unsolublesugar.com/20231117/153754/)
+* 2023/11/13
+	* [10年目突入！今年もやります。ガジェ獣 Advent Calendar 2023](https://unsolublesugar.com/20231113/113423/)
+* 2023/09/20
+	* [デルアンバサダー大感謝祭2023イベントレポート](https://unsolublesugar.com/20230920/184250/)
+* 2023/09/15
+	* [Webブラウザ版X（Twitter）で引用、リポスト、いいねしたユーザーを表示させる方法](https://unsolublesugar.com/20230915/004947/)
+* 2023/08/09
+	* [Amazonインフルエンサーになったのでアイディアリストを公開してみた。海外では動画投稿やライブ配信も可能](https://unsolublesugar.com/20230809/182402/)
+* 2023/08/06
+	* [PCでロマサガRSを快適プレイ。Google Play Gamesのインストールとデータ連携手順](https://unsolublesugar.com/20230806/215035/)
+* 2023/07/01
+	* [プライム会員なら無料で利用可能に。Amazonビジネス「BusinessプライムDuoプラン」へ切り替えてみた](https://unsolublesugar.com/20230701/151249/)
+* 2023/06/28
+	* [iPhoneコントロールセンターのホームコントロールを非表示にする方法](https://unsolublesugar.com/20230628/202538/)
+* 2023/05/25
+	* [VC ClientでRVC完全に理解した / rvc-with-vcclient-completely-understood](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
+* 2023/05/13
+	* [Lenovo Legion T750iのメモリを64GBに増設した](https://unsolublesugar.com/20230513/174840/)
+* 2023/03/12
+	* [Lenovo Legion T750iのM.2 SSD換装。Cドライブを512GBから4TBへ大容量化](https://unsolublesugar.com/20230312/000417/)
+* 2023/01/29
+	* [VCCでVRChatにVRMアバターをアップロードする方法完全に理解した](https://speakerdeck.com/unsoluble_sugar/how-to-upload-vrm-avatar-to-vrchat-with-vcc)
+* 2023/01/24
+	* [NVIDIA GeForce Experienceでドライバのダウンロードに失敗する場合の対処法](https://unsolublesugar.com/20230124/211408/)
+
+## connpass
+
+* 2023/12/26
+	* [エンジニア達の「完全に理解した」Talk　#48](https://easy2.connpass.com/event/303838/)
+* 2023/12/07
+	* [【初心者向け】本当にわかりやすいAI入門―数式や専門用語なしにイチから最新動向まで解説！](https://studyco.connpass.com/event/301227/)
+* 2023/11/28
+	* [エンジニア達の「完全に理解した」Talk　#47](https://easy2.connpass.com/event/301048/)
+* 2023/10/31
+	* [エンジニア達の「完全に理解した」Talk　#46](https://easy2.connpass.com/event/297661/)
+* 2023/09/26
+	* [エンジニア達の「完全に理解した」Talk　#45](https://easy2.connpass.com/event/295168/)
+* 2023/09/21
+	* [GitHub Actions Meetup Tokyo #2](https://gaugt.connpass.com/event/292175/)
+* 2023/08/29
+	* [エンジニア達の「完全に理解した」Talk　#44](https://easy2.connpass.com/event/292408/)
+* 2023/07/27
+	* [エンジニア達の「完全に理解した」Talk　#43](https://easy2.connpass.com/event/289385/)
+* 2023/07/19
+	* [CryptoGames Web3勉強会](https://cryptogames.connpass.com/event/289171/)
+* 2023/07/13
+	* [『LeanとDevOpsの科学』著者登壇！開発生産性Conference](https://findy.connpass.com/event/283417/)
+* 2023/06/29
+	* [エンジニア達の「完全に理解した」Talk　#42](https://easy2.connpass.com/event/286032/)
+* 2023/06/28
+	* [スタートアップ〜メガベンチャーのEMが語る、強い開発組織づくりとキャリア戦略](https://tech-track.connpass.com/event/286559/)
+* 2023/06/21
+	* [LLM活用の現状と課題 -言語モデルをプロダクトに取り入れる【メルカリ×PKSHA×カラクリ】](https://findy.connpass.com/event/285976/)
+* 2023/06/14
+	* [日本CTO協会 | Developer eXperience Day 2023](https://cto-a.connpass.com/event/277153/)
+* 2023/06/14
+	* [ブロックチェーン最前線-スマートコントラクト/NFTの実例から学ぶ実践技術と今後の展望](https://findy.connpass.com/event/285377/)
+* 2023/05/30
+	* [みんなで学ぶ、QAエンジニアによる品質改善の取り組み LT大会](https://findy.connpass.com/event/283151/)
+* 2023/05/25
+	* [エンジニア達の「完全に理解した」Talk　#41](https://easy2.connpass.com/event/282672/)
+* 2023/05/23
+	* [DevRel/Radio #114 〜DevRel失敗談〜](https://devrel.connpass.com/event/284324/)
+* 2023/04/28
+	* [ChatGPT Meetup Tokyo #0](https://chatgpt.connpass.com/event/280653/)
+* 2023/04/27
+	* [エンジニア達の「完全に理解した」Talk　#40](https://easy2.connpass.com/event/279632/)
+* 2023/04/18
+	* [一歩先の開発生産性とは ~GitHub・今村さん・吉羽さんから学ぶ~](https://findy.connpass.com/event/279356/)
+* 2023/04/04
+	* [【第二回】ChatGPT選手権！エンジニアリングに組み込んでみましたLT大会](https://findy.connpass.com/event/278392/)
+* 2023/03/30
+	* [エンジニア達の「完全に理解した」Talk　#39](https://easy2.connpass.com/event/276317/)
+* 2023/03/23
+	* [ChatGPT選手権！エンジニアリングに組み込んでみたらこうなりました LT大会](https://findy.connpass.com/event/276736/)
+* 2023/03/15
+	* [FlutterとReact Nativeのトレンド モバイルアプリ開発におけるDevOpsとは](https://findy.connpass.com/event/275375/)
+* 2023/03/07
+	* [優秀エンジニア獲得のための技術広報・採用広報のはじめかた](https://lapras.connpass.com/event/274631/)
+* 2023/02/23
+	* [エンジニア達の「完全に理解した」Talk　#38](https://easy2.connpass.com/event/273874/)
+* 2023/02/21
+	* [開発生産性可視化を通じた"Developer Experience向上"への取り組み](https://findy.connpass.com/event/274738/)
+* 2023/01/26
+	* [エンジニア達の「完全に理解した」Talk　#37](https://easy2.connpass.com/event/270936/)
+* 2023/01/20
+	* [Qiita Advent Calendar 2022 Online Meetup](https://increments.connpass.com/event/267714/)
+* 2023/01/18
+	* [スカウトメールでEM獲得を実現　ワンキャリアの採用手法を徹底解析](https://lapras.connpass.com/event/269844/)
+* 2023/01/16
+	* ["良い開発体験"を提供するスタートアップ3社に迫る！](https://findy.connpass.com/event/269211/)
+
+## note
+
+* 2023/12/22
+	* [note記事2023年の記録振り返り](https://note.com/unsoluble_sugar/n/n6dfdd522cecc)
+* 2023/11/19
+	* [JPYC経由のASTR購入が比較的スムーズだった](https://note.com/unsoluble_sugar/n/n7e103151e652)
+* 2023/11/16
+	* [bitbankで購入したASTRをMetaMaskに送金するのが大変だった](https://note.com/unsoluble_sugar/n/n113bb5cb9e8f)
+* 2023/09/21
+	* [tofuNFTでプロフィールのアバターアイコンを変更する方法](https://note.com/unsoluble_sugar/n/n3e325cbbd527)
+* 2023/09/21
+	* [MetaMaskにAstar Networkを追加してNFTを表示させる方法](https://note.com/unsoluble_sugar/n/n7da15e9312cc)
+* 2023/08/01
+	* [VRChatのアバターサムネイルに好きな画像を設定する方法](https://note.com/unsoluble_sugar/n/na07a2f7ca023)
+* 2023/07/17
+	* [NFTとモータースポーツの融合「NEO SUMMER 2023」イベントレポート](https://note.com/unsoluble_sugar/n/n1e7e6ed54738)
+* 2023/07/16
+	* [OnCyberで体験するクリエイターエコノミーの新たな可能性](https://note.com/unsoluble_sugar/n/nb4d9f0e41f24)
+* 2023/07/06
+	* [Threads所感メモ。TwitterのSNS世界シェア状況の実態はもっと知られるべき](https://note.com/unsoluble_sugar/n/n40d8f3b926a6)
+* 2023/07/02
+	* [30代最後なので起業したエンジニアの戯言](https://note.com/unsoluble_sugar/n/n8a94ee0a78d4)
+* 2023/04/23
+	* [【革命】リアルタイムボイチェンソフト「VC Client」でついに念願のカワボをてにいれたぞ！](https://note.com/unsoluble_sugar/n/ndd8781101700)
+* 2023/04/02
+	* [【書評】Stable DiffusionによるAI画像生成ガイドブック](https://note.com/unsoluble_sugar/n/n51a9535c6c06)
+* 2023/01/05
+	* [Blenderの複数バージョン管理ツール「Blender Launcher」導入](https://note.com/unsoluble_sugar/n/n325bf78da28a)
+* 2023/01/03
+	* [狭山スキー場でスノボしてきた](https://note.com/unsoluble_sugar/n/n652054699cb0)
+* 2023/01/03
+	* [VRChat Creator Companionを使ってVRoid Studioで作成したVRMアバターをアップロードする方法](https://note.com/unsoluble_sugar/n/n5cc84bc30213)
+
+## PR作成
+
+* 2023/12/21
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/08/15
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/08/14
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/08/07
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/07/21
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/07/19
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/07/05
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/02/18
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/02/10
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/02/09
+	* [unsolublesugar/zenn-content](https://github.com/unsolublesugar/zenn-content/pulls?q=is:pr+author:unsolublesugar)
+* 2023/01/29
+	* [unsolublesugar/unsolublesugar](https://github.com/unsolublesugar/unsolublesugar/pulls?q=is:pr+author:unsolublesugar)
+* 2023/01/27
+	* [torch2424/wasm-by-example](https://github.com/torch2424/wasm-by-example/pulls?q=is:pr+author:unsolublesugar)
+
+## Zenn
+
+* 2023/08/15
+	* [大文字・小文字が引き起こすパス問題: Next.jsプロジェクトにおけるMacとWindowsの違い](https://zenn.dev/unsoluble_sugar/articles/978015611f482f)
+* 2023/08/14
+	* [Windows環境でnpm-scripts実行に使用するシェルを変更する](https://zenn.dev/unsoluble_sugar/articles/96c3e32ac4e723)
+* 2023/08/14
+	* [VSCodeのデフォルトターミナルを変更する方法](https://zenn.dev/unsoluble_sugar/articles/362a17a7f57020)
+* 2023/08/07
+	* [Built-in workflowsで新規作成issueをGithub Projectsへ自動追加する](https://zenn.dev/unsoluble_sugar/articles/75e65267907956)
+* 2023/07/21
+	* [GitHub CLIで別リポジトリのlabelをcloneする](https://zenn.dev/unsoluble_sugar/articles/ff5aaa4241cd24)
+* 2023/07/19
+	* [React JSX内のコメントアウト記述方法](https://zenn.dev/unsoluble_sugar/articles/2dc4d0620103fe)
+* 2023/07/05
+	* [GitHub Issueを別リポジトリへ移行する方法](https://zenn.dev/unsoluble_sugar/articles/930c056d301dea)
+* 2023/02/10
+	* [git status がコード 128 で終了しました error bad signature fatal index corrupt](https://zenn.dev/unsoluble_sugar/articles/a0ecf5ca90a5c4)
+
+## SpeakerDeck
+
+* 2023/05/25
+	* [VC ClientでRVC完全に理解した / rvc-with-vcclient-completely-understood](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
+* 2023/01/26
+	* [VCCでVRChatにVRMアバターをアップロードする方法完全に理解した](https://speakerdeck.com/unsoluble_sugar/how-to-upload-vrm-avatar-to-vrchat-with-vcc)
+
+## Qiita
+
+* 2023/02/19
+	* [QiitaのGoogle AnalyticsトラッキングIDをGA4に移行する手順](https://qiita.com/unsoluble_sugar/items/d5b71266347cf040473a)
+
+
 # 2022
 
 ## connpass
