@@ -34,28 +34,16 @@
 	* [分散型SNSどころかSNS自体が分散してるのですが](https://note.com/unsoluble_sugar/n/n2f4a17b83b00)
 * 2024/12/12
 	* [sashimi先生の初イラスト本を手に、作品との出会いをふりかえってみた](https://note.com/unsoluble_sugar/n/n9559a23c8f20)
-* 2024/12/11
-	* [「仕事は厳しく、そして楽しく」｜JTB執行役員の＜Professional 7rules＞](https://ttj.paiza.jp/archives/2024/12/11/16100/)
 * 2024/12/09
 	* [歳を重ねるほど人付き合いの重要性を実感する](https://note.com/unsoluble_sugar/n/n1e4579cfe9c1)
 * 2024/12/08
 	* [ドルフロ2公式MMD配布キャラ名称一覧（和名/中国名/英名）](https://note.com/unsoluble_sugar/n/n0393438cd299)
-* 2024/12/06
-	* [JTグループのテクノロジー戦略を担う執行役員 下林 央のProfessional 7rules](https://ttj.paiza.jp/archives/2024/12/06/16087/)
-* 2024/12/05
-	* [JT執行役員が語る「ヒト・モノ・カネ・情報・AI」の時代を勝ち抜くテクノロジー戦略](https://ttj.paiza.jp/archives/2024/12/05/16060/)
-* 2024/12/03
-	* [paizaを使用した効率的な就職活動を振り返る株式会社シンクロ・フード新入社員座談会](https://ttj.paiza.jp/archives/2024/12/03/16045/)
 * 2024/12/01
 	* [日常で見かけた丁寧なコミュニケーションをお手本にする](https://note.com/unsoluble_sugar/n/n7b519a1ab755)
 * 2024/12/01
 	* [MMD制作日誌 2024年10月](https://note.com/unsoluble_sugar/n/ne02bb0cda7ca)
-* 2024/11/29
-	* [「人生はタイミング、思いとリスクテイク」｜エーザイ 執行役CIO 法華津 誠](https://ttj.paiza.jp/archives/2024/11/29/16011/)
 * 2024/11/28
 	* [やっぱりVRChatプレイの優先度が低かった件](https://note.com/unsoluble_sugar/n/nc9940a0d8ae4)
-* 2024/11/28
-	* [エーザイが体験から得た教訓｜CIOが抱く危機感と未来の組織像](https://ttj.paiza.jp/archives/2024/11/28/15988/)
 * 2024/11/26
 	* [SMCIと投資の「マイルール」の話](https://note.com/unsoluble_sugar/n/ncf7db22b1642)
 * 2024/11/25
@@ -64,18 +52,10 @@
 	* [「Web開発＋Blockchain/IoT/Roboticsの開発現場の最前線」イベント司会・モデレーターを務めさせていただきます](https://note.com/unsoluble_sugar/n/n832c3442b0c8)
 * 2024/11/25
 	* [【告知】Datachainさん主催のエンジニアイベントにて司会・モデレーターを務めさせていただきます](https://note.com/unsoluble_sugar/n/n832c3442b0c8)
-* 2024/11/22
-	* [paizaで就職した若手エンジニアたちの現在の仕事とは｜株式会社ジーニー](https://ttj.paiza.jp/archives/2024/11/22/16033/)
 * 2024/11/21
 	* [東京法務局の訪問と法人番号の話](https://note.com/unsoluble_sugar/n/n0c604360c37a)
-* 2024/11/16
-	* [「揺らぎを起こし、新しいチャレンジを」｜BCG X 平井 陽一朗](https://ttj.paiza.jp/archives/2024/11/16/15955/)
-* 2024/11/15
-	* [BCGのデジタル専門家集団ヘッドが語る、イノベーション成功の極意｜求めるのは「役割を越える人材」](https://ttj.paiza.jp/archives/2024/11/15/15937/)
 * 2024/11/13
 	* [動画編集が苦手という勘違いとモチベーション源泉の話](https://note.com/unsoluble_sugar/n/n56bfc5fb8a4d)
-* 2024/11/08
-	* [3社座談会「ITエンジニアのリモートワーク、どう運用してる？」｜タイミー×エムスリー×ログラス](https://ttj.paiza.jp/archives/2024/11/08/15960/)
 * 2024/10/28
 	* [創作活動における『量質転化の法則』](https://note.com/unsoluble_sugar/n/n2d6882bd638e)
 * 2024/10/27
