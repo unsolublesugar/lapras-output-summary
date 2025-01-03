@@ -4,6 +4,14 @@
 
 ## Blog等
 
+* 2024/12/31
+	* [Google AdSense、YouTube税務情報の更新手続き手順](https://unsolublesugar.com/20241231/212602/)
+* 2024/12/25
+	* [2025年に買いたいガジェットたち #ガジェ獣AdventCalendar](https://unsolublesugar.com/20241225/231112/)
+* 2024/12/01
+	* [2024年「買ってよかったなぁ！」と思ったガジェットまとめ #ガジェ獣AdventCalendar](https://unsolublesugar.com/20241201/182312/)
+* 2024/11/28
+	* [今年もやります。ガジェ獣 Advent Calendar 2024](https://unsolublesugar.com/20241128/152006/)
 * 2024/10/08
 	* [未読アイコンが表示され続けるSlackワークスペースで全のメッセージを既読にする方法](https://unsolublesugar.com/20241008/103321/)
 * 2024/08/17
