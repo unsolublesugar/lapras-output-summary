@@ -4,94 +4,8 @@
 
 ## Blog等
 
-* 2024/12/28
-	* [【告知】エンジニア達の「完全に理解した」Talk #61 （2025/1/28開催）](https://note.com/unsoluble_sugar/n/na3c35ad49daa)
-* 2024/12/28
-	* [noteの「スキ」750回達成バッ...](https://note.com/unsoluble_sugar/n/n5e8d8ab3f89c)
-* 2024/12/26
-	* [早起き習慣化への第一歩。レベル別に朝やることを書き出してみる](https://note.com/unsoluble_sugar/n/n10f4608cb579)
-* 2024/12/23
-	* [しずかなインターネットの使い道を見失ってしまった](https://note.com/unsoluble_sugar/n/ne92894eb5e21)
-* 2024/12/22
-	* [レッテルやバイアスは人生の邪魔にしかならない](https://note.com/unsoluble_sugar/n/nab00b779aa06)
-* 2024/12/22
-	* [ひとつの終わりを見届けること](https://note.com/unsoluble_sugar/n/nfb29df909065)
-* 2024/12/22
-	* [人類は何も学ばない](https://note.com/unsoluble_sugar/n/neb5a0bca3118)
-* 2024/12/22
-	* [FF14、吉田直樹氏の凄さ](https://note.com/unsoluble_sugar/n/n869a4bea4adc)
-* 2024/12/22
-	* [毎日継続できる何かがある人はすごい](https://note.com/unsoluble_sugar/n/nc9fa373b2d01)
-* 2024/12/22
-	* [2024年下半期に作成したMMD動画振り返り](https://note.com/unsoluble_sugar/n/n555f3192d4cf)
-* 2024/12/19
-	* [2024年によく読まれた記事10選+小話](https://note.com/unsoluble_sugar/n/ncbbd44b4f6a9)
-* 2024/12/18
-	* [ひとりが好きだけどコミュニケーションはしたい強欲オタクがやっていること](https://note.com/unsoluble_sugar/n/ne9cff2416787)
-* 2024/12/17
-	* [ニコ動アワード2024 バラエティ部門でMMD動画をノミネートいただきました](https://note.com/unsoluble_sugar/n/n23a7948ee589)
-* 2024/12/17
-	* [分散型SNSどころかSNS自体が分散してるのですが](https://note.com/unsoluble_sugar/n/n2f4a17b83b00)
-* 2024/12/12
-	* [sashimi先生の初イラスト本を手に、作品との出会いをふりかえってみた](https://note.com/unsoluble_sugar/n/n9559a23c8f20)
-* 2024/12/09
-	* [歳を重ねるほど人付き合いの重要性を実感する](https://note.com/unsoluble_sugar/n/n1e4579cfe9c1)
-* 2024/12/08
-	* [ドルフロ2公式MMD配布キャラ名称一覧（和名/中国名/英名）](https://note.com/unsoluble_sugar/n/n0393438cd299)
-* 2024/12/01
-	* [日常で見かけた丁寧なコミュニケーションをお手本にする](https://note.com/unsoluble_sugar/n/n7b519a1ab755)
-* 2024/12/01
-	* [MMD制作日誌 2024年10月](https://note.com/unsoluble_sugar/n/ne02bb0cda7ca)
-* 2024/11/28
-	* [やっぱりVRChatプレイの優先度が低かった件](https://note.com/unsoluble_sugar/n/nc9940a0d8ae4)
-* 2024/11/26
-	* [SMCIと投資の「マイルール」の話](https://note.com/unsoluble_sugar/n/ncf7db22b1642)
-* 2024/11/25
-	* [自分の好きな動画作品のクレジットに名前を載せてもらった](https://note.com/unsoluble_sugar/n/nafde3b5633c6)
-* 2024/11/25
-	* [「Web開発＋Blockchain/IoT/Roboticsの開発現場の最前線」イベント司会・モデレーターを務めさせていただきます](https://note.com/unsoluble_sugar/n/n832c3442b0c8)
-* 2024/11/25
-	* [【告知】Datachainさん主催のエンジニアイベントにて司会・モデレーターを務めさせていただきます](https://note.com/unsoluble_sugar/n/n832c3442b0c8)
-* 2024/11/21
-	* [東京法務局の訪問と法人番号の話](https://note.com/unsoluble_sugar/n/n0c604360c37a)
-* 2024/11/13
-	* [動画編集が苦手という勘違いとモチベーション源泉の話](https://note.com/unsoluble_sugar/n/n56bfc5fb8a4d)
-* 2024/10/28
-	* [創作活動における『量質転化の法則』](https://note.com/unsoluble_sugar/n/n2d6882bd638e)
-* 2024/10/27
-	* [ゼンゼロ公式MMDモデルVer.1.0「ルーシー」の荒ぶるマスクを修正する方法](https://note.com/unsoluble_sugar/n/ne6085a519a71)
-* 2024/10/18
-	* [夢を見ることが多くなったのは良いことなのか悪いことなのか](https://note.com/unsoluble_sugar/n/ne9f3bf03e89c)
-* 2024/10/18
-	* [SNSは人類が扱うには早すぎるツールなのではないか](https://note.com/unsoluble_sugar/n/n0102476a3cb6)
-* 2024/10/17
-	* [『さくらみこ×Shibuya Sakura Stage』をチラ見してきた](https://note.com/unsoluble_sugar/n/n8ddf8d2d1d46)
-* 2024/10/14
-	* [AlphaGo（デミス・ハサビス） vs イ・セドル「神の一手」が示すAIと人間の可能性](https://note.com/unsoluble_sugar/n/n36f78e6998cf)
-* 2024/10/14
-	* [AlphaGo vs イ・セドル「神の一手」が示すAIと人間の可能性](https://note.com/unsoluble_sugar/n/n36f78e6998cf)
-* 2024/10/13
-	* [【孤独のVRChatワールド探訪】-Lost-](https://note.com/unsoluble_sugar/n/n2fc98581f004)
-* 2024/10/13
-	* [MMD秋祭り2024進捗](https://note.com/unsoluble_sugar/n/nfbfb02a3783d)
-* 2024/10/10
-	* [note記事の下書きを供養してみるテスト](https://note.com/unsoluble_sugar/n/n03ce1c4093a9)
 * 2024/10/08
 	* [未読アイコンが表示され続けるSlackワークスペースで全のメッセージを既読にする方法](https://unsolublesugar.com/20241008/103321/)
-* 2024/10/06
-	* [SNSによって失われた「言語化能力」を養うための試み](https://note.com/unsoluble_sugar/n/n9bb54b1e95f2)
-* 2024/10/06
-	* [昔VRChatにハマらなかった理由を分析してみたら、ちょっと熱が高まった件](https://note.com/unsoluble_sugar/n/nbf58bd5f5c39)
-* 2024/10/03
-	* [いまのインターネットに息苦しさを感じたら、自分の使い方を見直してみると良いかもしれない](https://note.com/unsoluble_sugar/n/nea4ff3dcb8e9)
-* 2024/10/01
-	* [ヘイトスピーチが常態化してる人は健全な趣味を持った方が良いと思う](https://note.com/unsoluble_sugar/n/n8db0c599c555)
-* 2024/09/30
-	* [チャンスを掴みとることの難しさ](https://note.com/unsoluble_sugar/n/n08e69ee9662c)
-* 2024/09/29
-	* [天音かなた【公式】MMDモデルver1.0顔中央に表示される線を修正する方法](https://note.com/unsoluble_sugar/n/ne14be3344382)
-* 2024/09/24
-	* [Amazonで家電製品に☆1レビューを付ける前に確認してほしいこと](https://note.com/unsoluble_sugar/n/n8af60deb1f43)
 * 2024/08/17
 	* [三井住友カードのクレカが不正利用されたので利用停止＆再発行した](https://unsolublesugar.com/20240817/144401/)
 * 2024/07/30
@@ -161,7 +75,36 @@
 	* [Zenn,しずかなインターネット「どうやって開発したの？」開発者catnoseさんにきいてみた](https://findy.connpass.com/event/306774/)
 
 ## note
-
+* 2024/12/28
+	* [【告知】エンジニア達の「完全に理解した」Talk #61 （2025/1/28開催）](https://note.com/unsoluble_sugar/n/na3c35ad49daa)
+* 2024/12/28
+	* [noteの「スキ」750回達成バッ...](https://note.com/unsoluble_sugar/n/n5e8d8ab3f89c)
+* 2024/12/26
+	* [早起き習慣化への第一歩。レベル別に朝やることを書き出してみる](https://note.com/unsoluble_sugar/n/n10f4608cb579)
+* 2024/12/23
+	* [しずかなインターネットの使い道を見失ってしまった](https://note.com/unsoluble_sugar/n/ne92894eb5e21)
+* 2024/12/22
+	* [レッテルやバイアスは人生の邪魔にしかならない](https://note.com/unsoluble_sugar/n/nab00b779aa06)
+* 2024/12/22
+	* [ひとつの終わりを見届けること](https://note.com/unsoluble_sugar/n/nfb29df909065)
+* 2024/12/22
+	* [人類は何も学ばない](https://note.com/unsoluble_sugar/n/neb5a0bca3118)
+* 2024/12/22
+	* [FF14、吉田直樹氏の凄さ](https://note.com/unsoluble_sugar/n/n869a4bea4adc)
+* 2024/12/22
+	* [毎日継続できる何かがある人はすごい](https://note.com/unsoluble_sugar/n/nc9fa373b2d01)
+* 2024/12/22
+	* [2024年下半期に作成したMMD動画振り返り](https://note.com/unsoluble_sugar/n/n555f3192d4cf)
+* 2024/12/19
+	* [2024年によく読まれた記事10選+小話](https://note.com/unsoluble_sugar/n/ncbbd44b4f6a9)
+* 2024/12/18
+	* [ひとりが好きだけどコミュニケーションはしたい強欲オタクがやっていること](https://note.com/unsoluble_sugar/n/ne9cff2416787)
+* 2024/12/17
+	* [ニコ動アワード2024 バラエティ部門でMMD動画をノミネートいただきました](https://note.com/unsoluble_sugar/n/n23a7948ee589)
+* 2024/12/17
+	* [分散型SNSどころかSNS自体が分散してるのですが](https://note.com/unsoluble_sugar/n/n2f4a17b83b00)
+* 2024/12/12
+	* [sashimi先生の初イラスト本を手に、作品との出会いをふりかえってみた](https://note.com/unsoluble_sugar/n/n9559a23c8f20)
 * 2024/12/09
 	* [歳を重ねるほど人付き合いの重要性を実感する](https://note.com/unsoluble_sugar/n/n1e4579cfe9c1)
 * 2024/12/08
